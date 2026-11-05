@@ -1,0 +1,25 @@
+{
+  "name": "FisioPocket: O App de Bolso do Acadêmico de Fisioterapia",
+  "short_name": "FisioPocket",
+  "description": "Acervo de 150 mapas mentais, testes especiais, evolução SOAP, escalas clínicas e controle de horas de estágio para fisioterapia.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#022c22",
+  "theme_color": "#059669",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
